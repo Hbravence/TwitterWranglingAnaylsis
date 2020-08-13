@@ -1,4 +1,4 @@
-# Twitte rWrangling Anaylsis
+# Twitter Wrangling Anaylsis
 ## Packages
 > The Python packages that were used for this project are tweepy, json, pandas, numpy , and requests
 
