@@ -1,8 +1,8 @@
-# TwitterWranglingAnaylsis
-##Packages
+# Twitte rWrangling Anaylsis
+## Packages
 > The Python packages that were used for this project are tweepy, json, pandas, numpy , and requests
 
-##Gathering data
+## Gathering data
 > The purpose of this project was gather data from mulitpe sources, those sources are from a url, from twitter's api were I collected the information about number retweets and favorites from already processed tweet ids which were already in a csv file.
 
 ## Cleaning 
